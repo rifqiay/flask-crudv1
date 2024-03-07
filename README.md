@@ -16,6 +16,8 @@ venv\Scripts\activate
 ```bash
 pip3 install -r requirements.txt
 ```
+### File .env.example
+  rename file .env.example menjadi .env lalu sesuaikan variable environment
 ### Run Project
 ```bash
 export FLASK_APP=bookshop.py
