@@ -18,5 +18,6 @@ pip3 install -r requirements.txt
 ```
 ### Run Project
 ```bash
+export FLASK_APP=bookshop.py
 flask run
 ```
